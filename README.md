@@ -1,4 +1,4 @@
 # checkers
-Basic checkers game made for android
+Basic checkers game
 
-Added line
+add line
