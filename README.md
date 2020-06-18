@@ -1,2 +1,2 @@
 # checkers
-Basic checkers game
+Basic checkers game made for android
